@@ -1,0 +1,20 @@
+{
+  "name": "bitfinex",
+  "version": "1.0.0",
+  "description": "Hi and congratulations to your progress with Bitfinex!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "decimal.js": "^10.4.3",
+    "dotenv": "^16.3.1",
+    "grenache-nodejs-http": "^0.7.13",
+    "grenache-nodejs-link": "^1.0.0",
+    "mathjs": "^11.11.0"
+  },
+  "type": "module"
+}

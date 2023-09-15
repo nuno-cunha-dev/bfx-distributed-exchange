@@ -25,8 +25,8 @@ My Grapes servers are running on the same machine, so I used 127.0.0.1 as the ad
 
 
 ## Improvements
-Add integration tests.
-A distributed locking mechanism for the order.
-We could add market orders / stop limit orders.
-A web interface to interact with the exchange.
-Multiple orderbooks for different markets.
+ - Add integration tests.
+ - A distributed locking mechanism for the order.
+ - We could add market orders / stop limit orders.
+ - A web interface to interact with the exchange.
+ - Multiple orderbooks for different markets.

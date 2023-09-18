@@ -25,6 +25,7 @@ My Grapes servers are running on the same machine, so I used 127.0.0.1 as the ad
 
 
 ## Improvements
+ - If we assume that any time any new client can enter this network, we must populate on startup the local instance of the order book with the existing one on the other clients.
  - Add integration tests.
  - A distributed locking mechanism for the order.
  - We could add market orders / stop limit orders.
